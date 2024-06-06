@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SistemaVendas.Models.Produto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Produtos</h1>
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    @foreach (var produto in Model)
+    {
+        @if (produto.ExibirAnuncio)
+        {
+            <div class="col">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <img class="card-img-top" src="@Url.Content("~/img/" + produto.UrlImagem)" alt="@produto.UrlImagem" width="100px" />
+                        <h5 class="card-title">@produto.TituloProduto</h5>
+                        <p class="card-text">@produto.DescricaoProduto</p>
+                        <p class="card-text">Avaliação: @produto.AvaliacaoProduto</p>
+                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#produtoModal_@produto.ProdutoId">Detalhes</button>
+                    </div>
+                    @if (produto.statusEntrega == true)
+                    {
+                        <div class="alert alert-primary w-50 text-center" role="alert">Entrega ainda hoje</div>
+                    }
+                    @if (!produto.ExibirAnuncio)
+                    {
+
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>
+@foreach (var produto in Model)
+{
+    <!--Modal-->
+    <div class="modal fade" id="produtoModal_@produto.ProdutoId" tabindex="-1" aria-labelledby="produtoModal_@produto.ProdutoId" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="produtoModal_@produto.ProdutoId">@produto.TituloProduto</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <img class="card-img-top" src="@Url.Content("~/img/" + produto.UrlImagem)" alt="@produto.UrlImagem" />
+                    <p><strong>@produto.TituloProduto</strong></p>
+                    <p><strong>Descrição: </strong>@produto.DescricaoProduto</p>
+                    <p><strong>Preço: </strong> @produto.PrecoProduto</p>
+                    <p><strong>Avaliação:</strong> @produto.AvaliacaoProduto</p>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+}

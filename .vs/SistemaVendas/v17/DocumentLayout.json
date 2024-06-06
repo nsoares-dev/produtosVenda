@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP MVC\\SistemaVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|d:\\asp mvc\\sistemavendas\\sistemavendas\\migrations\\20240605232853_dbprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C960347E-D58D-493B-ACA4-CA6CA43D8E9B}|SistemaVendas\\SistemaVendas.csproj|solutionrelative:sistemavendas\\migrations\\20240605232853_dbprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVendas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaVendas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T23:45:22.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaVendas\\appsettings.json",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\appsettings.json",
+              "RelativeToolTip": "SistemaVendas\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T23:28:57.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240605232853_DBProdutos.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Migrations\\20240605232853_DBProdutos.cs",
+              "RelativeDocumentMoniker": "SistemaVendas\\Migrations\\20240605232853_DBProdutos.cs",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Migrations\\20240605232853_DBProdutos.cs",
+              "RelativeToolTip": "SistemaVendas\\Migrations\\20240605232853_DBProdutos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:28:54.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "SistemaVendas\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "SistemaVendas\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T23:24:59.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaVendas\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "SistemaVendas\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T23:17:42.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SistemaVendas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SistemaVendas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-05T23:09:51.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "SistemaVendas\\Controllers\\ProdutosController.cs",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "SistemaVendas\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T23:08:57.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "SistemaVendas\\Models\\Produto.cs",
+              "ToolTip": "D:\\ASP MVC\\SistemaVendas\\SistemaVendas\\Models\\Produto.cs",
+              "RelativeToolTip": "SistemaVendas\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:54:34.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
